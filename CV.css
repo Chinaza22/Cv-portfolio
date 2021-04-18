@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+background-color: grey;
+  background-repeat: repeat;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+}
+
+h2{
+	color: maroon;
+	text-align: center;
+}
+
+.design{
+	font-family: verdana;
+	
+
+}
+
